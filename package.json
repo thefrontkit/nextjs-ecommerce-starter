@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-ecommerce-storefront-lite",
+  "name": "nextjs-ecommerce-starter",
   "version": "1.0.0",
   "description": "Free Next.js 16 e-commerce storefront: home, product listing with filters, product pages, categories, search and cart. Built with Tailwind CSS v4 and shadcn/ui by thefrontkit.",
   "private": true,

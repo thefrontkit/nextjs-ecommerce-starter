@@ -1,6 +1,8 @@
-# Next.js E-commerce Storefront (Free)
+# Next.js Ecommerce Starter (Free, Open Source)
 
-A free, open-source e-commerce storefront built with **Next.js 16**, **Tailwind CSS v4** and **shadcn/ui**. Clone it, swap in your products, and you've got a fast, accessible shop front to build on.
+A free, open-source Next.js ecommerce starter: a complete storefront template built with **Next.js 16**, **Tailwind CSS v4** and **shadcn/ui**. Clone it, swap in your products, and you've got a fast, accessible shop front to build your Next.js ecommerce site on.
+
+More details and a comparison with the full kits: [thefrontkit.com/free-nextjs-ecommerce-starter](https://thefrontkit.com/free-nextjs-ecommerce-starter?utm_source=github&utm_medium=storefront-lite&utm_campaign=readme).
 
 Made by [thefrontkit](https://thefrontkit.com?utm_source=github&utm_medium=storefront-lite&utm_campaign=readme).
 
